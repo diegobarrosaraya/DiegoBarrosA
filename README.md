@@ -1,44 +1,19 @@
-# Hello, I'm Diego Barros 
+# Diego Barros Araya
 
-<p align="l">
-  <img src="https://komarev.com/ghpvc/?username=DiegoBarrosA&color=82AAFF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/DiegoBarrosA?label=Followers&style=for-the-badge&color=82AAFF&labelColor=0D1117" alt="Followers"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/DiegoBarrosA?label=Stars&style=for-the-badge&color=82AAFF&labelColor=0D1117" alt="Stars"/>
-</p>
+Hard constraints, high stakes, short deadlines. That's where I do my best work.
 
-Welcome to my GitHub profile! I'm passionate about open-source technology and empowering teams to deliver innovative solutions. With over a decade of experience as a Linux user, I specialize in designing, implementing, and optimizing IT infrastructure using open-source tools and modern technologies.
+Senior engineer. I build and ship production apps for enterprise clients, and the harnesses that let AI agents do real work safely.
 
-## About Me
+## Selected work
 
-I am a Senior Engineer with expertise in Atlassian products, cloud-native environments (Docker, OCI), and embedded systems. My focus areas include scalability, collaboration, and automation. I thrive at the intersection of technology and leadership, bridging the gap between technical teams and business stakeholders to deliver results.
+- [nix-config](https://diegobarrosaraya.com/work/nix-config/)
+- [Ardour on Wayland](https://diegobarrosaraya.com/work/ardour-wayland/)
+- [teams-calls-fetcher](https://diegobarrosaraya.com/work/teams-calls-fetcher/)
+- [A home agent platform](https://diegobarrosaraya.com/work/home-agent-platform/)
 
-## Skills
+## Links
 
-- IT Infrastructure Design & Optimization
-- Open-Source Tools & Modern Technologies
-- Cloud-Native Environments (Docker, OCI)
-- Atlassian Products
-- Automation & Scalability
-
-
-## GitHub Stats
-
-<div align="center">
-
-  <img width="500" src="https://stats.diegobarrosaraya.com/api?username=DiegoBarrosA&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=3" alt="GitHub Stats"/>
-  <br/>
-  <img width="400" src="https://stats.diegobarrosaraya.com/api/top-langs?username=DiegoBarrosA&theme=github_dark&hide_border=true&layout=compact&langs_count=8&v=3" alt="Top Languages"/>
-  <br/>
-  <img width="500" src="https://stats.diegobarrosaraya.com/api/streak?username=DiegoBarrosA&theme=github_dark&hide_border=true&v=3" alt="GitHub Streak"/>
-
-</div>
-
-## Contact
-
- [Portfolio](https://diegobarrosaraya.com)
- [Email](mailto:contact@diegobarrosaraya.com)
- [LinkedIn](https://linkedin.com/in/diegobarrosa)
- [Blog](https://blog.diegobarrosaraya.com/)
- [Docs](https://docs.diegobarrosaraya.com/)
+- Site: https://diegobarrosaraya.com
+- LinkedIn: https://linkedin.com/in/diegobarrosaraya
+- Email: contact@diegobarrosaraya.com
+- Resume: https://diegobarrosaraya.com/resume/
